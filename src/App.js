@@ -5,8 +5,11 @@ import "./style.css";
 
 function App() {
   return (
-  <Weather />)
-   
+    <div> 
+  <Weather />
+   <a href='https://github.com/OleksandrOrz/weather'> Open-source code</a>, by Orzul Svitlana
+  </div>
+  )
 }
 
 export default App;
